@@ -1,0 +1,21 @@
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+/frontend/.env
+
+# Editor & OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.vim
+
+# IDE settings
+.vscode/
+.idea/
+
